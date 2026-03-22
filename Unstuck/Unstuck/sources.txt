@@ -1,0 +1,6 @@
+https://forums.swift.org/t/text-field/79849
+
+Google Gemini 2.0 Flash - through API to breakdown tasks into subtasks
+Firebase Cloud Function - connecting the Gemini API key and connecting prompt and response decoded in JSON
+
+Claude - used while developing for assistance with SwiftUI and debugging rendering issues
