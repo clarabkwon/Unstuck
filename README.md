@@ -40,6 +40,7 @@ If the user checks in as struggling 3 or more times in 7 days, the app surfaces 
 | Authentication (planned) | Auth0 |
 | Database (planned) | Firestore |
 
+
 ---
 
 ## Project Structure
@@ -106,7 +107,7 @@ firebase functions:secrets:set GEMINI_API_KEY
 
 ## Roadmap
 
-- Auth0 authentication
+- Auth0 authentication and login flow
 - Firestore sync for cross-device persistence
 - Body doubling with live focus rooms
 - Smart priority engine that learns from completion history
@@ -118,11 +119,8 @@ firebase functions:secrets:set GEMINI_API_KEY
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - [Gemini API](https://ai.google.dev/)
 - [Firebase](https://firebase.google.com/)
-- [Auth0](https://auth0.com/)
-
 ---
 
 ## Authors
 
-Clara Kwon, Sania Jain
-
+Clara Kwon, Sania Jain, Lauren Lee, Prajwalla Sinha
